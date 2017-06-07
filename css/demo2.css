@@ -1,0 +1,62 @@
+.navbar {
+  background: #FFFFFF!important;
+}
+#tutu {
+  max-height: 50px;
+}
+#a-2 li a {
+  padding-left: 5px;
+  padding-right: 5px;
+  width: 68px;
+  text-align: center;
+  height: 68px;
+  padding-top: 20px;
+  border-top-width: 4px;
+  border-top-style: solid;
+  border-top-color: #fff;
+}
+#a-a a.active {
+  color: #ffffff;
+  height: 68px;
+  background-color: #cc0000;
+  padding-top: 20px;
+  border-top-width: 4px;
+  border-top-style: solid;
+  border-top-color: #af0000;
+}
+#lunbo img {
+  width: 100%;
+  margin-top: 40px;
+}
+#a-b {
+  border: 0;
+  border-radius: 0;
+}
+#a-b h4 {
+  margin-top: 60px;
+}
+#a-b ul {
+  margin-top: 15px;
+}
+#a-b ul li {
+  margin-top: 7.4px;
+}
+.col-md-6 {
+  background: #fff;
+}
+.footer {
+  margin-top: 20px;
+  background: #2f2f2f;
+}
+.footer .nav-aaa li a {
+  color: #fff;
+}
+.footer .col-xs-6 {
+  margin-top: 40px;
+}
+.navbar-default {
+  background: none;
+}
+.navbar-box {
+  background: none;
+}
